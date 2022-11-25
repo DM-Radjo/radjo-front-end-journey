@@ -1,0 +1,6 @@
+My resloution for my Front-end journey :
+- Belajar HTML
+- Belajar CSS
+- Belajar JS
+- Belajar Git & Github
+- Belajar React, Node JS
