@@ -4,3 +4,4 @@ My resloution for my Front-end journey :
 - Belajar JS
 - Belajar Git & Github
 - Belajar React, Node JS
+- Membuat website pertama saya
